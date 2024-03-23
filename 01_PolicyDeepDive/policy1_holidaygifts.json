@@ -10,15 +10,15 @@
         "s3:GetObjectAcl",
         "s3:DeleteObject"
       ],
-      "Resource": "arn:aws:s3:::holidaygifts/*"
+      "Resource": "arn:aws:s3:::fhgsv/*"
     },
     {
       "Effect": "Deny",
       "Action": ["s3:GetObject", "s3:GetObjectAcl"],
-      "Resource": "arn:aws:s3:::holidaygifts/*",
+      "Resource": "arn:aws:s3:::fhgsv/*",
       "Condition": {
-        "DateGreaterThan": { "aws:CurrentTime": "2022-12-01T00:00:00Z" },
-        "DateLessThan": { "aws:CurrentTime": "2022-12-25T06:00:00Z" }
+        "DateGreaterThan": { "aws:CurrentTime": "2024-03-01T00:00:00Z" },
+        "DateLessThan": { "aws:CurrentTime": "2024-03-31T23:59:59Z" }
       }
     }
   ]

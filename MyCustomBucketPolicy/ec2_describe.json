@@ -8,12 +8,12 @@
       "Resource": "*",
       "Condition": {
         "StringNotEquals": {
-          "aws:RequestedRegion": ["ap-southeast-2", "eu-west-1"]
+          "aws:RequestedRegion": ["ap-southeast-2", "eu-west-1"] 
         }
       }
     },
     {
-      "Sid": "DenyEC2NonApprovedRegions",
+      "Sid": "DenyEC2ReadNonApprovedRegions",
       "Effect": "Allow",
       "Action": "ec2:Describe*",
       "Resource": "*",
