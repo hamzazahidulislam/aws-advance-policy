@@ -19,3 +19,14 @@ aws-advance-policy
 ## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-policies-ec2-console.html
 
 ## https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_deny-requested-region.html
+
+## https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_notresource.html
+
+## https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements_condition_operators.html
+
+## https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2imagebuilder.html
+
+## https://docs.aws.amazon.com/imagebuilder/latest/userguide/wfdoc-dynamic-vars.html
+
+## https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2.html#amazonec2-ec2_ImageType
+
