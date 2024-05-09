@@ -15,3 +15,5 @@ aws-advance-policy
 ## https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_securitygroups-vpc.html
 
 ## https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_ec2_region.html
+
+## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-policies-ec2-console.html
