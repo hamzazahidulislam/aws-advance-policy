@@ -30,3 +30,14 @@ aws-advance-policy
 
 ## https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2.html#amazonec2-ec2_ImageType
 
+## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-policy-structure.html#amazon-ec2-keys
+
+## https://aws.amazon.com/blogs/compute/query-for-the-latest-amazon-linux-ami-ids-using-aws-systems-manager-parameter-store/
+
+## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html
+
+## https://documentation.ubuntu.com/aws/en/latest/aws-how-to/instances/find-ubuntu-images/
+
+## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ExamplePolicies_EC2.html
+
+## https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/volume_limits.html
